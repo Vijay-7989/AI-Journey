@@ -1,2 +1,9 @@
-# AI-Journey
-A collection of AI, Machine Learning, and Generative AI projects built while learning from scratch.
+# AI Journey
+
+Welcome to my AI learning journey.
+
+Goal:
+- Learn AI from scratch.
+- Build practical projects.
+- Upload projects to GitHub.
+- Become an AI Engineer.
